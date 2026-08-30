@@ -752,15 +752,13 @@ Its economic function is to:
 - turn outcomes into reusable learning;
 - increase ACE Yield and AARI.
 
-evaluation layer evaluates.
+Evaluation assesses evidence.
 
-reht authorizes.
+Authorization remains distinct from evaluation.
 
-enforcement layer expresses the deterministic decision.
+Enforcement applies the resulting decision at the declared consequence boundary.
 
-The external PEP/Gateway enforces.
-
-Veritas records execution and outcome evidence.
+Execution and outcome evidence are recorded separately.
 
 ## 41. The ACE maturity model
 
