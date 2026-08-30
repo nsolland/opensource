@@ -43,6 +43,10 @@ These repositories are separated intentionally. Authorization, deterministic bin
 - [open-agent-contract](https://github.com/nsolland/open-agent-contract) — vendor-neutral contracts for governed agent consequence. MIT. Its canonical relationship to other VALO contract work remains explicitly unresolved in that repository.
 - [peace-protocol](https://github.com/nsolland/peace-protocol) — protocol for keeping authority and authoritative state in the governed domain while models, agents, devices and providers remain replaceable. Apache-2.0.
 
+## Research publications
+
+- [research](https://github.com/nsolland/research) — public archive for papers, technical reports, research notes, publication controls, and selected evidence. The working laboratories and canonical experiment provenance remain separate.
+
 ## External forks and research baselines
 
 These are upstream projects or research baselines retained as forks. Their upstream identity and license remain authoritative.
