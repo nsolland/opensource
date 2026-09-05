@@ -2,6 +2,12 @@
 
 Public reports and working papers released under `nsolland/opensource`.
 
+Canonical sources remain Markdown in this directory. Public distribution is generated as REHT-versioned PDF with source commit and SHA-256 provenance.
+
+Published web index: https://nsolland.github.io/opensource/reports/
+
+Machine-readable publication manifest: https://nsolland.github.io/opensource/reports/manifest.json
+
 ## GCU / ACE / organization
 
 1. [The ACE Economy](01-the-ace-economy.md)
