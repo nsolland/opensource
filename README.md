@@ -4,7 +4,9 @@ Public index for open-source work maintained, published, or forked under `nsolla
 
 This repository is the map, not another runtime or product. Each linked repository keeps its own scope, status, upstream history, and license.
 
-## VALO execution-governance stack
+## HEIMEL consequence authorization stack
+
+[HEIMEL](https://github.com/Heimel-open/Heimel) is the public entry point for the open consequence authorization infrastructure. The standards and reference implementations below remain independently usable and vendor-neutral.
 
 The public execution path is:
 
