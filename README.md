@@ -49,6 +49,13 @@ These repositories are separated intentionally. Authorization, deterministic bin
 
 - [reports/](reports/) — public working papers and technical reports on Governed Completion Units (GCU), Attentive Cognitive Evaluation (ACE), AI infrastructure economics and market structure.
 
+## Cognitive seeds
+
+- [seeds/](seeds/) — small, versioned hypotheses and reusable conceptual
+  primitives intended for independent adoption. A seed is not a protocol,
+  runtime, product or source of authority; adoption requires attribution,
+  local validation and an explicit decision by the adopting project.
+
 ## External forks and research baselines
 
 These are upstream projects or research baselines retained as forks. Their upstream identity and license remain authoritative.

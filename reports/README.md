@@ -2,6 +2,10 @@
 
 Public reports and working papers released under `nsolland/opensource`.
 
+Short adoption-oriented versions of selected ideas live in the repository's
+[cognitive seeds](../seeds/) directory; the reports remain the fuller research
+and evidence surface.
+
 Canonical sources remain Markdown in this directory. Public distribution is generated downstream by `nsolland/website-deployer` as REHT-versioned PDF with source commit and SHA-256 provenance.
 
 Published web index: https://valoresearch.org/reports/
