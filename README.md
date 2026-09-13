@@ -51,10 +51,10 @@ These repositories are separated intentionally. Authorization, deterministic bin
 
 ## Cognitive seeds
 
-- [seeds/](seeds/) — small, versioned hypotheses and reusable conceptual
-  primitives intended for independent adoption. A seed is not a protocol,
-  runtime, product or source of authority; adoption requires attribution,
-  local validation and an explicit decision by the adopting project.
+- [HEIMEL cognitive seeds](https://github.com/Heimel-open/Heimel/tree/main/seeds)
+  — the canonical public home for small, versioned hypotheses and reusable
+  conceptual primitives intended for independent adoption. A seed is not a
+  protocol, runtime, product or source of authority.
 
 ## External forks and research baselines
 
